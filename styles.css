@@ -1,3 +1,7 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .main-container {
     margin: auto;
     border: 4px solid #e3d5ca;
